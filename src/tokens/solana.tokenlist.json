@@ -1,8 +1,18 @@
 {
-  "chainId": 101,
-  "address": "GPqaer5NuESCAFfBwixSFxJfYNSJDkNPfd9o2ZuTMPFb",
-  "symbol": "YAG",
-  "name": "You Are a Genius",
-  "uri": "https://yag-coin.com/metadata/yag.json",
-  "decimals": 9
+  "version": "1.0",
+  "tokens": [
+    {
+      "address": "HDKdfhoAbSWK5zbqhjGfsCEPpmfLicpeFan2ejnGzEaN",
+      "symbol": "YAG",
+      "name": "You Are a Genius",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/dU8pSql.png",
+      "tags": ["utility"],
+      "extensions": {
+        "website": "https://yag-coin.com",
+        "twitter": "https://x.com/tupper_yag",
+        "telegram": "https://t.me/yag_crew_crypto",
+      }
+    }
+  ]
 }
